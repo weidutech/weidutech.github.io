@@ -5230,12 +5230,12 @@ a.ui.inverted.grey.header:hover {
  *
  */@font-face {
  font-family:Icons;
- src:url(media/icons.8e3c7f55.eot);
- src:url(media/icons.8e3c7f55.eot?#iefix) format("embedded-opentype"),
- url(media/icons.0ab54153.woff2) format("woff2"),
- url(media/icons.faff9214.woff) format("woff"),
- url(media/icons.b87b9ba5.ttf) format("truetype"),
- url(media/icons.962a1bf3.svg#icons) format("svg");
+ src:url(static/css/media/icons.8e3c7f55.eot);
+ src:url(static/css/media/icons.8e3c7f55.eot?#iefix) format("embedded-opentype"),
+ url(static/css/media/icons.0ab54153.woff2) format("woff2"),
+ url(static/css/media/icons.faff9214.woff) format("woff"),
+ url(static/css/media/icons.b87b9ba5.ttf) format("truetype"),
+ url(static/css/media/icons.962a1bf3.svg#icons) format("svg");
  font-style:normal;
  font-weight:400;
  font-variant:normal;
